@@ -1,0 +1,15 @@
+{
+  "TITLE":"Écran d'affichage de cuisine",
+  "LOGIN": {"CONNECT_MSG": " Connectez-vous à Hubrise"},
+  "MAIN": {"TITLE": "Ordres"},
+  "Deal": {"TITLE": "Offres françaises"},
+  "Pizzas": {"TITLE": "Pizza françaises"},
+  "HOME": {
+    "TITLE": "Bonjour Angular avec ngx-translate !",
+    "SELECT": "Changer la langue"
+  }  ,
+  "HELLO": "Welcome in FR to my Angular application!<br><strong>Ceci est une application incroyable qui utilise les dernières technologies!</strong>",
+  "TEXT2": "Bonjour {{value}}",
+  "ADD":"Ajouter"
+
+}

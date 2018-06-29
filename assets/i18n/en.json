@@ -1,0 +1,12 @@
+{
+  "TITLE":"Kitchen Display Screen",
+  "LOGIN": {"CONNECT_MSG": " Connect to Hubrise"},
+  "MAIN": {"TITLE": "Orders"},
+  "HOME": {
+    "TITLE": "Hello Angular with ngx-translate!",
+    "SELECT": "Change language"
+  },
+    "HELLO": "Welcome html text!<br><strong>This is an amazing app which uses the latest technologies!</strong>",
+    "TEXT2": "hello {{value}}",
+    "ADD":"add"
+}
